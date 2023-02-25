@@ -21,7 +21,7 @@ require (
 	github.com/safchain/ethtool v0.0.0-20211027131506-00502cff1260
 	github.com/siebenmann/go-kstat v0.0.0-20210513183136-173c9b0a9973 // indirect
 	github.com/soundcloud/go-runit v0.0.0-20150630195641-06ad41a06c4a
-	golang.org/x/sys v0.0.0-20210927094055-39ccf1dd6fa6
+	golang.org/x/sys v0.1.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 )
 
